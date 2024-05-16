@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\areas\\admin\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\areas\\admin\\views\\card\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\views\\card\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\dto\u0027s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\dto\u0027s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\dto\u0027s\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\dto\u0027s\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\areas\\admin\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004B2C5A-F062-4192-9F0A-B9FE7956BCEC}|Core\\Core.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004B2C5A-F062-4192-9F0A-B9FE7956BCEC}|Core\\Core.csproj|solutionrelative:core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F835846A-7DE9-4CAF-8E31-B47E4B112268}|Data\\Data.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F835846A-7DE9-4CAF-8E31-B47E4B112268}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\areas\\admin\\views\\card\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\areas\\admin\\views\\card\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3251C123-42D0-40B1-A775-7AE0EA0246BA}|Business\\Business.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\business\\services\\concretes\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3251C123-42D0-40B1-A775-7AE0EA0246BA}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F835846A-7DE9-4CAF-8E31-B47E4B112268}|Data\\Data.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\data\\migrations\\20240516141702_createappusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F835846A-7DE9-4CAF-8E31-B47E4B112268}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240516141702_createappusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004B2C5A-F062-4192-9F0A-B9FE7956BCEC}|Core\\Core.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\core\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004B2C5A-F062-4192-9F0A-B9FE7956BCEC}|Core\\Core.csproj|solutionrelative:core\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\doorang\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5136451E-0D69-497C-8857-AED7EC78AB02}|Doorang\\Doorang.csproj|solutionrelative:doorang\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3251C123-42D0-40B1-A775-7AE0EA0246BA}|Business\\Business.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\business\\exceptions\\cardnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3251C123-42D0-40B1-A775-7AE0EA0246BA}|Business\\Business.csproj|solutionrelative:business\\exceptions\\cardnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3251C123-42D0-40B1-A775-7AE0EA0246BA}|Business\\Business.csproj|c:\\users\\asime\\desktop\\doorang\\doorang\\business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3251C123-42D0-40B1-A775-7AE0EA0246BA}|Business\\Business.csproj|solutionrelative:business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Doorang\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T19:27:41.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Doorang\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAADMBAAAAAAAAAAAswFsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T19:23:03.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Doorang\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Doorang\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:20:16.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Doorang\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAADQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T18:18:01.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\DTO\u0027s\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Doorang\\DTO\u0027s\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\DTO\u0027s\\LoginDTO.cs",
+              "RelativeToolTip": "Doorang\\DTO\u0027s\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:13:33.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Card\\Create.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Views\\Card\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Card\\Create.cshtml",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Views\\Card\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:48:00.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Areas\\Admin\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Areas\\Admin\\Controllers\\CardController.cs",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Controllers\\CardController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:35:25.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Program.cs",
+              "RelativeDocumentMoniker": "Doorang\\Program.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Program.cs",
+              "RelativeToolTip": "Doorang\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:25:22.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:05:04.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\DTO\u0027s\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Doorang\\DTO\u0027s\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\DTO\u0027s\\RegisterDTO.cs",
+              "RelativeToolTip": "Doorang\\DTO\u0027s\\RegisterDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:19:26.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:05:19.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Doorang\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:29:31.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Doorang\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:21:26.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:29:46.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:15:08.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "RelativeToolTip": "Doorang\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:04:54.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Business\\Services\\Concretes\\CardService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\CardService.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Business\\Services\\Concretes\\CardService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\CardService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAFkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:58:00.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240516141702_createAppUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Data\\Migrations\\20240516141702_createAppUserTable.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240516141702_createAppUserTable.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Data\\Migrations\\20240516141702_createAppUserTable.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240516141702_createAppUserTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:17:02.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Doorang\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Doorang\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:29:31.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Core\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Core\\Models\\Card.cs",
+              "RelativeToolTip": "Core\\Models\\Card.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:37:51.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CardNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Business\\Exceptions\\CardNotFoundException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\CardNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Business\\Exceptions\\CardNotFoundException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\CardNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:50:38.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\FileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\FileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:46:30.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

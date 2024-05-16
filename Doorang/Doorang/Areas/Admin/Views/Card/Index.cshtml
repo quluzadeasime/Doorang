@@ -1,0 +1,51 @@
+﻿@using Core.Models
+@model List<Card>
+@{
+   int count = 0;
+}
+<div class="container">
+    <h2>
+        Cards
+        <a class="btn btn-primary" asp-action="Create">Create</a>
+    </h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Title</th>
+                <th scope="col">Subtitle</th>
+                <th scope="col">Description</th>
+                <th scope="col">ImgUrl</th>
+                <th scope="col">Processing</th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                count++;
+                <tr>
+                    <td>@count</td>
+                    <td>@item.Title</td>
+                    <td>@item.Subtitle</td>
+                    <td>@item.Description</td>
+                    <td>
+                        <div style="width:100px">
+                            <img width="100%" src="~/uploads/@item.ImgUrl"></img>
+                        </div>
+                    </td>
+                    <td>
+                        <a class="btn btn-warning " asp-action="Update" asp-controller="Card" asp-route-id="@item.Id">Update</a>
+                        <a class="btn btn-danger item-delete" asp-action="Delete" asp-route-id=@item.Id>Delete</a>
+
+
+                    </td>
+
+                </tr>
+            }
+
+           
+        </tbody>
+    </table>
+</div>
