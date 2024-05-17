@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Doorang")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54b4027646b4996c8997e37c241e3e9100287873")]
 [assembly: System.Reflection.AssemblyProductAttribute("Doorang")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Doorang")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

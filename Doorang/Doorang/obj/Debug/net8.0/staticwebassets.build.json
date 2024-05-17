@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c98GuMY6eh1k5BiDICx+3GbNrq+NYFaYHRp9B6aJsHg=",
+  "Hash": "FBnhKO0nFtHZ8CIkvO45q6UuvlpXvlDFXWvCQmJ/o0c=",
   "Source": "Doorang",
   "BasePath": "_content/Doorang",
   "Mode": "Default",
@@ -37787,6 +37787,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\manage\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\wwwroot\\uploads\\Screenshot 2024-04-12 042747.png",
+      "SourceId": "Doorang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\wwwroot\\",
+      "BasePath": "_content/Doorang",
+      "RelativePath": "uploads/Screenshot 2024-04-12 042747.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Screenshot 2024-04-12 042747.png"
     },
     {
       "Identity": "C:\\Users\\Asime\\Desktop\\Doorang\\Doorang\\Doorang\\wwwroot\\uploads\\Screenshot 2024-04-25 094427.png",
